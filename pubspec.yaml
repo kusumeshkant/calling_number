@@ -37,6 +37,7 @@ dependencies:
   fast_contacts: ^1.1.1
   permission_handler: ^10.0.0
   flutter_phone_direct_caller: ^2.1.1
+  flutter_dialpad: ^1.0.4
 
 dev_dependencies:
   flutter_test:
